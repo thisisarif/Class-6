@@ -1,0 +1,12 @@
+#mainContainer { margin-top: 55px; }
+#headline { 
+			
+			 }
+#mainImg { position: absolute; z-index: -1; }
+@media screen and (max-width: 768px)
+{
+
+li { float:left !important; }
+ul { float:left !important; }
+
+}
